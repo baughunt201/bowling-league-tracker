@@ -489,4 +489,23 @@ Small practice programs may be created when necessary.
 
 Planning / Requirements Gathering
 
+## Next steps
+
+- [ ] Decide how bowler handicap is calculated
+  - Base score
+  - Handicap percentage
+  - Rounding rule
+- [ ] Calculate handicap per game for each bowler
+- [ ] Calculate total series handicap for each bowler
+- [ ] Calculate team handicap for each game
+- [ ] Calculate total team handicap for the series
+- [ ] Calculate team scratch total for each game
+- [ ] Calculate team total with handicap for each game
+- [ ] Calculate team scratch total for the series
+- [ ] Calculate team series total with handicap
+
+### Important design note
+
+The program currently processes one bowler at a time. Team totals will require keeping each bowler's scores long enough to add together the scores from the same game.
+
 Version 0.1 rules are currently being defined using my existing bowling league as the initial model.
