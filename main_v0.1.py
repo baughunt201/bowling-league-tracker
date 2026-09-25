@@ -128,7 +128,9 @@ for team_number in range(1, number_of_teams + 1):
             "handicap_series_total": handicap_series,
         })
 
-        # From here on I will start working on setting up "results" page that will display the points won for each team and the overall league standings. 
-        # I will also add a top scores page that will display the top three scratch games, handicap games, scratch series, and handicap series for each week.
-        # Later I plan to add a feature that will allow the user to save the results to a file and load them back in later. 
-        # This will allow the user to keep track of their league standings over time.
+# 
+
+# From here on I will start working on setting up "results" page that will display the points won for each team and the overall league standings. 
+# I will also add a top scores page that will display the top three scratch games, handicap games, scratch series, and handicap series for each week.
+# Later I plan to add a feature that will allow the user to save the results to a file and load them back in later. 
+# This will allow the user to keep track of their league standings over time.
