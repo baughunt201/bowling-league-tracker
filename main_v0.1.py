@@ -1,4 +1,4 @@
-# Bowling League Tracker
+# Bowling League Tracker version 0.1.0
 # Hunter Baughman
 # 9/24/2026
 # Added functionality to calculate the bowler's handicap scores and series total based on their qualifying entering average or first-session average.
@@ -128,7 +128,8 @@ for team_number in range(1, number_of_teams + 1):
             "handicap_series_total": handicap_series,
         })
 
-# 
+# Results for matchups and top scores.
+
 
 # From here on I will start working on setting up "results" page that will display the points won for each team and the overall league standings. 
 # I will also add a top scores page that will display the top three scratch games, handicap games, scratch series, and handicap series for each week.
